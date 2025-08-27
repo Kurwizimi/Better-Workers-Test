@@ -1,6 +1,15 @@
 [
 //With the present limitations on uniques and filters in Unciv, the Builder unit from Civ VI cannot be properly implemented without dividing its job into multiple specialist civilian units.
 	{
+		"name": "Worker",
+		"unitType": "Civilian",
+		"movement": 2,
+		"obsoleteTech": "Industrialization",
+		"upgradesTo": "Civil Engineer",
+		"uniques": ["Unbuildable","Can build [Land] improvements on tiles"],
+		"cost": 70
+	},
+	{
 		"name": "Agrarian",
 		"unitType": "Civilian",
 		"movement": 2,
