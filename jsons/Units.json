@@ -6,7 +6,7 @@
 		"movement": 2,
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Civil Engineer",
-		"uniques": ["Unbuildable","Can build [Land] improvements on tiles"],
+		"uniques": ["Can build [Land] improvements on tiles <before turn number [2]>"],
 		"cost": 70
 	},
 	{
