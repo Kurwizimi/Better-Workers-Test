@@ -6,7 +6,7 @@
 		"movement": 2,
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Civil Engineer",
-		"uniques": ["Can build [Land] improvements on tiles <for units with [March]>"],
+		"uniques": ["Can build [Land] improvements on tiles <for units without [March]>"],
 		"cost": 70
 	},
 	{
