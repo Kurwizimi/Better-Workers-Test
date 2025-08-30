@@ -1,6 +1,6 @@
 {
   "name": "Global uniques",
-	"uniques": [ "Free [Agrarian] appears <for [Major] Civilizations> <every [2] turns>",
+	"uniques": [ "Free [Agrarian] appears <for [Major] Civilizations> <after turn number [2]> <every [2] turns>",
 
 
   ]
