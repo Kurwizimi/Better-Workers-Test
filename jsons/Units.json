@@ -6,7 +6,14 @@
 		"movement": 2,
 		"obsoleteTech": "Industrialization",
 		"upgradesTo": "Civil Engineer",
-		"uniques": ["Can build [Land] improvements on tiles <for units without [March]>"],
+		"uniques": ["Can build [Land] improvements on tiles <for units without [March]>",
+			"Can instantly construct a [Farm] improvement <[3] times> <after which this unit is consumed>",
+			"Can instantly construct a [Pasture] improvement <[3] times> <after which this unit is consumed>",
+			"Can instantly construct a [Plantation] improvement <[3] times> <after which this unit is consumed>",
+		"Can instantly construct a [Mine] improvement <[3] times> <after which this unit is consumed>",
+			"Can instantly construct a [Quarry] improvement <[3] times> <after which this unit is consumed>",
+		"Can instantly construct a [Trading post] improvement <[3] times> <after which this unit is consumed>",
+			"Can instantly construct a [Camp] improvement <[3] times> <after which this unit is consumed>"],
 		"cost": 70
 	},
 	{
